@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+}
+.box{
+    margin-top: 200px;
+    height: 300px;
+    width: 700px;
+    border: 1px solid black;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.jokes{
+    height: 170px;
+}
+/* #nextJoke{
+    margin: 70px;
+    position: fixed;
+} */
+
